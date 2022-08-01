@@ -1,1 +1,1 @@
-### A Citizen of the Universe.
+### A Citizen of the Universe
