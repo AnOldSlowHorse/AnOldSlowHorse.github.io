@@ -2,7 +2,7 @@
   
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <title>ComeVisit Apps are running correctly</title>
+    <title>Wlcome for an Old Slow Horse</title>
     <style type="text/css" media="screen">
   * {
     margin: 0px 0px 0px 0px;
