@@ -193,7 +193,7 @@
        
         <div>
           <span style="margin-top: 1.5em;" class="floating_element">
-            Welcome to  An Old Slow Horse
+            Welcome from An Old Slow Horse
           </span>
         </div>
         <div class="banner">
