@@ -199,9 +199,6 @@
         </div>
         <div class="banner">
           <div id="about"></div>
-           <p>
-        
-          </p>
            An Old Slow Horse
         </div>
       </div>
