@@ -194,9 +194,7 @@
         <div>
           <span style="margin-top: 1.5em;" class="floating_element">
             Welcome to  An Old Slow Horse,
-             <p>
-        
-          </p>
+      
           </span>
         </div>
         <div class="banner">
@@ -207,10 +205,7 @@
            An Old Slow Horse
         </div>
       </div>
-        <p>
-        
-          </p>
-
+     
       <div class="content_section floating_element">
         <div class="content_section_text">
           <p>
