@@ -198,7 +198,7 @@
         </div>
               <div class="banner">
           <div id="about"></div>
-          <a href=https://bio.site/>Come visit me!</a>
+          <a href="https://bio.site/">Come visit me!</a>
         </div>
       </div>
       <div class="content_section floating_element">
@@ -207,7 +207,7 @@
                 Slow Horse
           </p>
           <p>
-              
+                 <a href="https://bio.site/">Come visit me!</a>
           </p>
 
         </div>
