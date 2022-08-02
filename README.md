@@ -196,12 +196,7 @@
             Welcome from An Old Slow Horse
           </span>
         </div>
-        <div class="banner">
-          <div id="about"></div>
-           An Old Slow Horse
-        </div>
-      </div>
-     
+      
       <div class="content_section floating_element">
         <div class="content_section_text">
           <p>
