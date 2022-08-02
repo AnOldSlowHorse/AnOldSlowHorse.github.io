@@ -194,6 +194,9 @@
         <div>
           <span style="margin-top: 1.5em;" class="floating_element">
             Welcome to  An Old Slow Horse,
+             <p>
+        
+          </p>
           </span>
         </div>
         <div class="banner">
@@ -224,7 +227,7 @@
         </div>
         <div class="content_section_text">
           <p>
-                Call back another time.
+                Nice of you to visit.
           </p>
 
                        
