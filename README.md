@@ -198,7 +198,7 @@
         </div>
               <div class="banner">
           <div id="about"></div>
-           An Old Slow Horse
+          [come visit me!](https://bio.site/AnOldSlowHorse)
         </div>
       </div>
       <div class="content_section floating_element">
