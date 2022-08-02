@@ -198,7 +198,7 @@
         </div>
               <div class="banner">
           <div id="about"></div>
-          <link href=Come visit me! rel=https://bio.site/AnOldSlowHorse />
+          <a href=https://bio.site/>Come visit me!</a>
         </div>
       </div>
       <div class="content_section floating_element">
